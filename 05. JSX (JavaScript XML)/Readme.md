@@ -7,7 +7,6 @@
     return/*_Pure_*/ React.createElement("h1" , {
         name: "Vinod" 
     }, "Hello World");
-
    }
    ```
    - It is a syntactical sugar introduces bye facebook for written React.js component easily.
